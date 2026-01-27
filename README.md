@@ -3,7 +3,7 @@
 Welcome to my page!  
 I'm Anders, a Data Science Master’s student @ the **University of North Texas**.  
 Originally from <img width="13" height="13" alt="Denmark flag" src="https://github.com/user-attachments/assets/defbd85f-e653-4b1d-b120-e234f1bec213" /> **Copenhagen, Denmark**,  
-currently based in <img width="13" height="13" alt="USA flag" src="https://github.com/user-attachments/assets/aa68142e-cffa-4ce2-ba66-6e9280f2a477" /> **Dallas, TX, United States**.
+currently based in <img width="13" height="13" alt="USA flag" src="https://github.com/user-attachments/assets/aa68142e-cffa-4ce2-ba66-6e9280f2a477" /> **Denton, TX, United States**.
 
 
 ## Skills
