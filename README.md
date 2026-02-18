@@ -35,7 +35,7 @@ currently based in <img width="13" height="13" alt="USA flag" src="https://githu
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
-### **Tooles & Others**
+### **Tools & Others**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
