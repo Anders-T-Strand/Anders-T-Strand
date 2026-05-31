@@ -69,7 +69,3 @@ A regression project predicting Manhattan apartment rents from listing features,
   <a href="https://www.linkedin.com/in/anders-strand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<!-- Optional GitHub stats — delete this block if you'd rather keep the page minimal -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders-T-Strand&layout=compact&theme=transparent" alt="Top languages"/>
-</p>
